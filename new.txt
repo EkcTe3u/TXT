@@ -1,0 +1,4 @@
+name - Sozdatelev Andrey Gennad'evich
+age - 37
+home pets - no
+desired salary - 300000 rubles
